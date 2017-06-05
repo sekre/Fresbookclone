@@ -1,0 +1,147 @@
+@charset "utf-8";
+/*93CCFF*/
+
+/*première partie nav*/
+
+.navbar {
+    margin-bottom: 0;
+    border: 4;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: auto;
+    border-radius: 0;
+   
+   }
+
+h3, h2{
+    text-align: center;
+    color: skyblue;
+   }
+
+h1{
+    color: skyblue;
+}
+
+/*DEUXIEME PARTIE
+
+/*GESTION DES IMAGES*/
+
+#img0 {
+     width: 110px;
+    height: 30px;
+    margin-top: 30px;
+}
+
+#img1{
+    width: 200px;
+    height: 100px;
+    margin-top: 0px;
+    margin-bottom: 4px;
+    margin-left: 50px;
+}
+
+#img2{
+      width: 500px;
+    height: 350px;
+    margin-top: 200px;
+    
+}
+.logo-cnet, .logo-cnn {
+    width: 50px;
+    height: 25px;
+}
+
+
+.percent{
+    display: inline-block;
+}
+/*FEATURE IN*/
+
+.featured-in {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+/*GESTION DES BOUTONS*/
+.mod
+{
+    padding: 15px 50px;
+    font-size: 20px;
+    background-color: #AAD662;
+    border-color: #AAD662;
+    color: #fff;
+}
+
+.col{
+    background-color: #F1F4F9;
+}
+
+/*caroussel*/
+.no-side-pad{
+    text-indent: 50px;
+     text-decoration: underline;
+    text-decoration-color:green;
+    text-decoration-style: double;
+    margin-top: 20px;
+    font-size: 20px;
+    color: black;
+}
+/*END CAROUSEL*/
+
+/*PHOTOS*/
+
+.circle{
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    border:0px;
+}
+
+.feature{
+    text-align: center;
+    text-indent: 5;
+}
+
+#seperator{
+    height: 2px;
+    width: 25%;
+    border:none;
+    box-shadow: none;
+    background-color: #3498DB;
+}
+
+/*TRY IT*/
+.try{
+    text-align: center;
+}
+
+.span{
+    text-align: center;
+}
+
+.bordure{
+    border-radius: 10px;
+    border: 1px solid gray;
+    padding: 4px;
+}
+
+/*GET STARTED*/
+
+.portefolio{
+    background-color: #eeeeee;
+    height: 800%;
+}
+
+#portefolio{
+    text-align: center;
+}
+
+.portefolio .item-folio{
+    height: 200px;
+    background-color: #3498DB;
+}
+
+
+
+
+
